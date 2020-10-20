@@ -1,0 +1,15 @@
+{
+  "name": "autocomponent",
+  "version": "1.0.0",
+  "description": "Auto Generate a folder in the components folder of a project with an index.js, component and story file",
+  "main": "autoComponent.js",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
